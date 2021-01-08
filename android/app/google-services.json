@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180422461092",
+    "firebase_url": "https://klutch-42b47.firebaseio.com",
+    "project_id": "klutch-42b47",
+    "storage_bucket": "klutch-42b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180422461092:android:6d4efada0125426a1bc831",
+        "android_client_info": {
+          "package_name": "com.digvijaytechnologies.klutch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180422461092-coh4b06akcpoav4qus02917kiplh44ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd3Sio6LzD2qz7T9pMTy_R5AupuliTx9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180422461092-coh4b06akcpoav4qus02917kiplh44ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

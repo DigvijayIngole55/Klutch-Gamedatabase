@@ -15,7 +15,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
         appBar: AppBar(
           backgroundColor: Color(0xFF1F1F1F),
           title: Text(
-            "Profilergrgrgrg",
+            "Profilergrgrgrg4t4t4t",
             style: TextStyle(
                 fontFamily: 'mokoto',
                 fontWeight: FontWeight.w600,
